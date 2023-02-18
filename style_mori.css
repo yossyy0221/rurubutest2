@@ -1,0 +1,174 @@
+
+body{
+    background-color: #B3DDD1;
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.backbutton_mori{
+  z-index: 100;
+  position: fixed;
+  left: 5%;
+  top: 10%;
+  width: 18%;
+  cursor: pointer;
+}
+
+.side_ono{
+z-index: 100;
+position: fixed;
+left: 5%;
+top: 23%;
+width: 18%;
+cursor: pointer;
+}
+
+.side_kakinuma{
+z-index: 100;
+position: fixed;
+left: 5%;
+top: 36%;
+width: 18%;
+cursor: pointer;
+}
+
+.side_sasaki{
+z-index: 100;
+position: fixed;
+left: 5%;
+top: 49%;
+width: 18%;
+cursor: pointer;
+}
+
+.side_shigeno{
+z-index: 100;
+position: fixed;
+left: 5%;
+top: 62%;
+width: 18%;
+cursor: pointer;
+}
+
+.side_washizu{
+z-index: 100;
+position: fixed;
+left: 5%;
+top: 75%;
+width: 18%;
+cursor: pointer;
+}
+
+
+.mori1{
+  width: 50%;
+  margin:0 auto;
+  position: relative;
+}
+
+.mori_1{
+position: absolute;
+padding-top: 6%;
+width: 100%;
+}
+
+.森_profile{
+position: absolute;
+padding-top: 34%;
+padding-left: 1%;
+width: 30%;
+}
+
+.bunichi{
+  position: absolute;
+  color: #005752;
+  padding-top: 40%;
+  padding-left: 2%;
+  }
+
+
+.mori2{
+    width: 50%;
+    margin:0 auto;
+    position: relative;
+}
+
+.mori_2{
+      position:absolute;
+      padding-top: 98%;
+      width: 50%;
+  }
+  
+.effect1{
+  position: absolute;
+  padding-top: 98%;
+  padding-left: 5%;
+  width: 12%;
+    }
+
+.shumi{
+    position: absolute;
+    padding-top: 95%;
+    padding-left: 50%;
+    width: 12%;
+  }
+  
+.bunni{
+      position: absolute;
+      color: #005752;
+      padding-top: 102%;
+      padding-left: 50%;
+      }
+  
+.mori3{
+        width: 50%;
+        margin:0 auto;
+        position: relative;
+    }
+
+.mori_3{
+        position:absolute;
+        padding-top: 120%;
+        padding-left: 30%;
+        width: 80%;
+    }
+
+.effect2{
+position: absolute;
+padding-top: 140%;
+padding-left: 55%;
+width: 40%;
+}
+
+.bunsan{
+position: absolute;
+color: #005752;
+padding-top: 140%;
+padding-left: 2%;
+}
+
+.mori4{
+  width: 100%;
+  margin:0 auto;
+  position: relative;
+}
+
+.印象{
+  position: absolute;
+  padding-top: 192%;
+  padding-left: 20%;
+  width: 60%;
+}
+
+.zenshin{
+  position: absolute;
+  padding-top: 158%;
+  padding-left: 17%;
+  width: 70%;
+}
+
+
+p{
+  font-size: 20px;
+}
+
+

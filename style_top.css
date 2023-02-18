@@ -1,0 +1,48 @@
+
+body{
+    background-color: #c1e4e9;
+    font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+
+.top_ono{
+    width: 100%;
+    line-height: 0%;
+    }
+
+.top_shigeno{
+    width: 100%;
+    line-height: 0%;
+    }
+
+.top_kakinuma{
+    width: 100%;
+    line-height: 0%;
+}
+.top_mori{
+    width: 100%;
+    line-height: 0%;
+}
+
+.top_sasaki{
+    width: 100%;
+    line-height: 0%;
+}
+
+.top_washizu{
+    width: 100%;
+    line-height: 0%;
+}
+
+
+
+    
